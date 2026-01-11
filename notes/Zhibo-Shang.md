@@ -6,7 +6,7 @@ timezone: UTC+8
 
 **GitHub ID:** Zhibo-Shang
 
-**Telegram:** 
+**Telegram:** @LeoZhou441
 
 ## Self-introduction
 
